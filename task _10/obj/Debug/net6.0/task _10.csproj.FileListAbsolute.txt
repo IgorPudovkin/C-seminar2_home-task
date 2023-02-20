@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\bin\Debug\net6.0\task _10.exe
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\bin\Debug\net6.0\task _10.deps.json
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\bin\Debug\net6.0\task _10.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\bin\Debug\net6.0\task _10.dll
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\bin\Debug\net6.0\task _10.pdb
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\obj\Debug\net6.0\task _10.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\obj\Debug\net6.0\task _10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\obj\Debug\net6.0\task _10.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\obj\Debug\net6.0\task _10.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\obj\Debug\net6.0\task _10.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\obj\Debug\net6.0\task _10.dll
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\obj\Debug\net6.0\refint\task _10.dll
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\obj\Debug\net6.0\task _10.pdb
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\obj\Debug\net6.0\task _10.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C# seminar2_ home task\task _10\obj\Debug\net6.0\ref\task _10.dll
